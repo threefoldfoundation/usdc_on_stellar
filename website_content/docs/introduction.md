@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ---
 
-***This website provides the necessary information to buy USDC and store it in a Stellar Chain wallet.***
+***This website provides the necessary information to buy USDC and store it in a Stellar wallet.***
 
 ---
 
@@ -16,7 +16,7 @@ It is very simple and convenient to buy USDC and to transfer the tokens to a Ste
 
 ## Few Steps
 
-There are basically to main steps
+There are basically two main steps:
 
 - Buy USDC on an exchange
 - Send USDC to a Stellar Wallet

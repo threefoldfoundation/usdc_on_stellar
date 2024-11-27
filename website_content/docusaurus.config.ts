@@ -119,13 +119,9 @@ const config: Config = {
               to: '/docs/introduction',
             },
             {
-              label: 'Get USDC',
-              to: '/docs/get_usdc',
-            },
-            {
-              label: 'Transfer to Stellar',
-              to: '/docs/transfer_to_stellar',
-            },
+              label: 'Overview',
+              to: '/docs/overview',
+            }
           ],
         },
         {
@@ -145,13 +141,13 @@ const config: Config = {
           title: 'Links',
           items: [
             {
-              label: 'ThreeFold.io',
-              href: 'https://threefold.io',
-            },
-            {
               label: 'GitHub',
               href: 'https://github.com/threefoldfoundation/usdc_on_stellar',
             },
+            {
+              label: 'ThreeFold.io',
+              href: 'https://threefold.io',
+            }
           ],
         },
       ],
