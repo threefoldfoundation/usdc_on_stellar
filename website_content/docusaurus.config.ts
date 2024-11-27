@@ -129,16 +129,16 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'References',
           items: [
-            {
-              label: 'Telegram',
-              href: 'https://t.me/threefold',
-            },
             {
               label: 'Support',
               to: '/support',
             },
+            {
+              label: 'Legal',
+              href: '/docs/category/legal',
+            }
           ],
         },
         {
