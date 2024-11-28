@@ -81,7 +81,7 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     // Replace with your project's social card
-    image: 'img/favicon.png',
+    image: 'img/usdc_logo.png',
     navbar: {
       title: 'USDC on Stellar',
       logo: {
